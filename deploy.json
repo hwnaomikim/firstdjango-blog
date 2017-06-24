@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/hwnaomikim/firstdjango-blog",
+  "PROJECT_NAME":"mysite",
+  "REMOTE_HOST":"firstdjango-blog.tk",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
